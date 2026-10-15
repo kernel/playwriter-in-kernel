@@ -6,7 +6,7 @@ This tool creates a Kernel browser session with the Playwriter Chrome extension,
 
 ## Prerequisites
 
-- **Go 1.22+**
+- **Go 1.27+**
 - **Kernel API Key** - Get from [Kernel Dashboard](https://dashboard.onkernel.com)
 - **Agent API Key**:
   - For Cursor: `CURSOR_API_KEY` from your Cursor subscription
